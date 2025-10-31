@@ -1,9 +1,9 @@
 1. Download minimal [NixOS ISO](https://nixos.org/download/)
 2. Flash ISO to usb drive
-    a. For Windows use [Rufus](https://rufus.ie/)
-    b. For Linux use [UNetbootin](https://unetbootin.github.io/)
-3. Boot into usb
-4. Move to /tmp folder and setup disko config
+	- For Windows use [Rufus](https://rufus.ie/)
+	- For Linux use [UNetbootin](https://unetbootin.github.io/)
+4. Boot into usb
+5. Move to /tmp folder and setup disko config
 ```bash 
 cd /tmp
 ```
