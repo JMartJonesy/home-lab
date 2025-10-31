@@ -27,7 +27,6 @@
       "networkmanager"
       "wheel"
     ];
-    initialPassword = "Password123";
   };
 
   environment.systemPackages = with pkgs; [
